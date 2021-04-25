@@ -1,0 +1,209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"sena",
+				"scenario"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"che",
+				"dbCheck"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/zhong/Documents/htmlcourse/css.css",
+		"/C/Users/zhong/Downloads/kitchenblue.js",
+		"/C/Users/zhong/Documents/htmlcourse/test.html",
+		"/C/Users/zhong/Documents/WeChat Files/diablo0897/FileStorage/File/2019-08/en(4).js",
+		"/D/BaiduNetdiskDownload/BGLDPOS-190819/pos.exe.config",
+		"/D/BaiduNetdiskDownload/BGLD POS(1)/Debug/pos.exe.config",
+		"/D/BaiduNetdiskDownload/BGLD-190615/Debug/BGLD.exe.config",
+		"/D/BaiduNetdiskDownload/BGLD POS/Debug/pos.exe.config",
+		"/C/Users/zhong/Documents/test/goods_update_imgs.py",
+		"/D/BaiduNetdiskDownload/zgomart_goods_xlsx_trans.py",
+		"/D/BaiduNetdiskDownload/zgomart_pos_supplier_trans.py",
+		"/D/BaiduNetdiskDownload/BGLDPOS-190912/pos.exe.config",
+		"/D/oc partners Dropbox/OC Partners LLC/网上超市/zh.js",
+		"/C/Users/zhong/go/src/newretial/static/pc/tinymce4.7.5/tinymce.min.js",
+		"/C/Users/zhong/go/src/newretial/static/pc/js/vendor.ca2fdc98ab4e9d54548c.js",
+		"/C/Users/zhong/Downloads/BGLD/BGLD.exe.config",
+		"/C/Users/zhong/Desktop/prebooking.txt",
+		"/C/Program Files (x86)/Aclas LINK66/LINK66.exe",
+		"/D/BGLD/BGLD/BGLD.exe.config",
+		"/D/BaiduNetdiskDownload/BGLDPOS-190921/pos.exe.config",
+		"/D/BaiduNetdiskDownload/BGLDPOS-190914-test/pos.exe.config",
+		"/D/BaiduNetdiskDownload/dbcheck.py",
+		"/C/Users/zhong/Documents/WeChat Files/diablo0897/FileStorage/File/2019-06/BGLD-190620/Debug/BGLD.exe.config",
+		"/C/Users/zhong/Documents/WeChat Files/diablo0897/FileStorage/File/2019-08/zh(4).js",
+		"/C/Users/zhong/Documents/WeChat Files/diablo0897/FileStorage/File/2019-07/zh.js",
+		"/C/Users/zhong/Documents/WeChat Files/diablo0897/FileStorage/File/2019-06/pos-19-6-6/Debug/pos.exe.config",
+		"/C/Users/zhong/Desktop/Debug/BGLD.exe.config",
+		"/D/BaiduNetdiskDownload/BGLD-190921/BGLD.exe.config",
+		"/D/BaiduNetdiskDownload/goods_update_imgs.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
